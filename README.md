@@ -1,33 +1,44 @@
 <h1>Summer Chores</h1>
 <h3>Description</h3>
 <p>Bob has a list of summer chores to do every Saturday. There are a lot of chores for him to do and naturally, he gets more tired throughout completing his tasks. If he gets too tired, he might fall asleep before completing all the chores.</p>
-<b>Time to Complete Chores</b>
-<table>
-  <tr>
-    <th>Chore</th>
-    <th>Time to Complete (milliseconds)</th>
-  </tr>
-  <tr>
-    <td>Time to mow the yard.</td>
-    <td>2000</td>
-  </tr>
+<p>They have a strict routine, which follows in order:</p>
+<ol>
+  <li>Mowing the yard</li>
+  <li>Weedeating the edges of the house and fence line</li>
+  <li>Trimming the hedges</li>
+  <li>Collect fallen wood for summer night fires</li>
+  <li>Water the garden</li>
+</ol>
+<p>If they manage not to get tired and fall asleep while doing their chores, they have successfully completed their chores. Also, there's never a chance of the person falling asleep before mowing the yard.</p>
+<div style="text-align:center;">
+  <b>Time to Complete Chores</b>
+  <table>
     <tr>
-    <td>Time to weed eat the yard.</td>
-    <td>1500</td>
-  </tr>
+      <th>Chore</th>
+      <th>Time to Complete (milliseconds)</th>
+    </tr>
     <tr>
-    <td>Time to trim the hedges.</td>
-    <td>1000</td>
-  </tr>
-    <tr>
-    <td>Time to collect wood.</td>
-    <td>2500</td>
-  </tr>
-    <tr>
-    <td>Time to water the garden.</td>
-    <td>500</td>
-  </tr>
-</table>
+      <td>Time to mow the yard.</td>
+      <td>2000</td>
+    </tr>
+      <tr>
+      <td>Time to weed eat the yard.</td>
+      <td>1500</td>
+    </tr>
+      <tr>
+      <td>Time to trim the hedges.</td>
+      <td>1000</td>
+    </tr>
+      <tr>
+      <td>Time to collect wood.</td>
+      <td>2500</td>
+    </tr>
+      <tr>
+      <td>Time to water the garden.</td>
+      <td>500</td>
+    </tr>
+  </table>
+</div>
 <!--Installation Instructions – How to set it up or install it.
 Usage – How to run or use the program.
 Examples – Code snippets or screenshots showing how it works.
