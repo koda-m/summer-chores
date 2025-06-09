@@ -10,7 +10,7 @@
   <li>Water the garden</li>
 </ol>
 <p>If he manages not to get tired and fall asleep while doing his chores, he will have successfully completed his chores. Also, there's never a chance of him falling asleep before mowing the yard.</p>
-<b>Time to Complete Chores</b>
+<caption><b>Time to Complete Chores</b></caption>
 <table>
   <tr>
     <th>Chore</th>
