@@ -38,12 +38,19 @@
   </tr>
 </table>
 <h3>How to Run</h3>
-<h4>How to Run callbackVersion.js:</h4>
+<h4>How to run callbackVersion.js:</h4>
 <ol>
   <li>Make sure you have Node.js installed (download here: https://nodejs.org/en).</li>
   <li>Clone or download this repo.</li>
   <li>Open a terminal and navigate to the summer-chores folder.</li>
   <li>Run the script with Node.js by typing the command <code>node callbackVersion.js</code> into the terminal and pressing Enter.</li>
 </ol>
-
 ![summerchores](https://github.com/user-attachments/assets/48b98e40-97fe-408f-a633-9e6c913101fa)
+<h4>How to run promiseVersion.js:</h4>
+<ol>
+  <li>Make sure you have Node.js installed (download here: https://nodejs.org/en).</li>
+  <li>Clone or download this repo.</li>
+  <li>Open a terminal and navigate to the summer-chores folder.</li>
+  <li>Run the script with Node.js by typing the command <code>node promiseVersion.js</code> into the terminal and pressing Enter.</li>
+</ol>
+![summerchores2](https://github.com/user-attachments/assets/1afdb2f4-5a47-442b-91b8-98256e6c5f5c)
