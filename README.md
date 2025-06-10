@@ -38,9 +38,9 @@
   </tr>
 </table>
 <h3>How to Run</h3>
-<h5>How to Run callbackVersion.js:</h5>
+<h4>How to Run callbackVersion.js:</h4>
 <ol>
-  <li>Make sure you have Node.js installed. (download here: https://nodejs.org/en)</li>
+  <li>Make sure you have Node.js installed (download here: https://nodejs.org/en).</li>
   <li>Clone or download this repo.</li>
   <li>Open a terminal and navigate to the summer-chores folder.</li>
   <li>Run the script with Node.js by typing the command <code>node callbackVersion.js</code> into the terminal and pressing Enter.</li>
