@@ -37,6 +37,13 @@
     <td>500</td>
   </tr>
 </table>
+<h3>Versions</h3>
+<p>This project has three separate versions:</p>
+<ol>
+  <li>callbackVersion.js – uses callbacks</li>
+  <li>promiseVersion.js – uses promises</li>
+  <li>asyncAwaitVersion.js – uses async/await</li>
+</ol>
 <h3>How to Run</h3>
 <h4>How to run callbackVersion.js:</h4>
 <ol>
