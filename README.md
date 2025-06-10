@@ -54,3 +54,11 @@
   <li>Run the script with Node.js by typing the command <code>node promiseVersion.js</code> into the terminal and pressing Enter.</li>
 </ol>
 <img src="https://github.com/user-attachments/assets/1afdb2f4-5a47-442b-91b8-98256e6c5f5c">
+<h4>How to run asyncAwaitVersion.js:</h4>
+<ol>
+  <li>Make sure you have Node.js installed (download here: https://nodejs.org/en).</li>
+  <li>Clone or download this repo.</li>
+  <li>Open a terminal and navigate to the summer-chores folder.</li>
+  <li>Run the script with Node.js by typing the command <code>node asyncAwaitVersion.js</code> into the terminal and pressing Enter.</li>
+</ol>
+<img src="https://github.com/user-attachments/assets/7d1714d3-ca91-4aea-8353-3a938d419eff">
